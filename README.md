@@ -1,6 +1,7 @@
 Link do site: http://gabriel-visentin.soukick.ml/
 
 Link para download do arquivo para o plugin ALL-IN-ONE WP MIGRATION:
+
 https://www.mediafire.com/file/13rz4rgscgv5zdq/gabriel-visentin.soukick.ml-20211220-013052-uwrta0.wpress/file
 
 #Home: Seção 1 - Menu, Rede Social, Apresentação
@@ -19,4 +20,4 @@ https://www.mediafire.com/file/13rz4rgscgv5zdq/gabriel-visentin.soukick.ml-20211
 ![image](https://user-images.githubusercontent.com/89871616/146700165-d1616c17-17a1-427a-b8ad-48681020824a.png)
 
 #Formulário: Seção 6 - Formulário para contato
-![image](https://user-images.githubusercontent.com/89871616/146700232-a5efa27c-1c69-4f1c-bc05-df96201b4c8b.png)
+![image](https://user-images.githubusercontent.com/89871616/146700286-1a00bf66-b4ba-4fe8-b61b-95ae5bab81cf.png)
